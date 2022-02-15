@@ -1,7 +1,7 @@
 import classes from './logo.module.css';
 
 function Logo() {
-  return <div className={classes.logo}>Max' Next Blog</div>;
+  return <div className={classes.logo}>Events</div>;
 }
 
 export default Logo;
